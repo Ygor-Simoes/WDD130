@@ -1,0 +1,9 @@
+.card_img{
+    width: 300px;
+    border-radius: 50%;
+    padding: 0ch;
+    border: 20px solid #444444;
+}
+.imgs_div{
+    align-items: right;
+}

@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&family=Ruslan+Display&display=swap');
+
+:root{
+    --heading-font: "Rock Salt";
+    --paragraph-font: Ruslan Display, Helvetica, sans-serif;    
+}
+
 a {
     margin: 40px;
 }
@@ -5,6 +12,7 @@ a {
     font-size: 1.5em;
     line-height: 1.5em;
     text-align: center;
+    font-family: "Rock Salt";
 }
 
 #active {
@@ -18,10 +26,12 @@ nav, footer {
 }
 footer p {
     font-size: 20px;
+    font: "Rock Salt";
 }
 
 body {
     text-align: center;
+    font: "Rock Salt";
     }
     nav {
     background-color: steelblue;
