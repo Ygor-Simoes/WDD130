@@ -1,0 +1,13 @@
+#title_text{
+    position: absolute;
+    text-align: center;   
+}
+#cherries{
+    position: absolute;
+    color: #942A2D;
+    top:45%;
+    left: 50%;
+}
+h1{
+    grid-column: 1/2;
+}
