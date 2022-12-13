@@ -303,3 +303,12 @@ form {
         font-display: 1fr auto;
     }
 }
+
+.About_us_msg{
+    background-color: #7ba9a9;
+}
+.img_strecht{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 0%;
+}
